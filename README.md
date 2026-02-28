@@ -4,9 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=16&descColor=a8c8e8" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up;Turning+ideas+into+production-ready+products;Clean+code+%7C+Great+architecture+%7C+Real+impact" alt="Typing SVG" />
-</a>
+<div align="center">
+  <h3>Building scalable systems from the ground up</h3>
+  <p>
+    Turning ideas into production-ready products<br>
+    <i>Clean code | Great architecture | Real impact</i>
+  </p>
+</div>
 
 <br/>
 
