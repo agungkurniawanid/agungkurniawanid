@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 Hello, I'm Yanuar Ardhika Rahmadhani Ubaidillah
-### ✨ Junior Web & Mobile Developer
+# 💫 Hello, I'm Agung Kurniawan
+### ✨ Junior Backend Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
@@ -32,10 +32,3 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ardhikaxx&theme=dark&hide_border=false" alt="GitHub Streak" height="170px" />
-</p>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</div>
