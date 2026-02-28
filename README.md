@@ -130,15 +130,15 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
 
 <div align="center">
 
-<a href="https://linkedin.com/in/agungkurniawanid" target="_blank">
+<a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-agungkurniawanid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://instagram.com/agungkurniawanid" target="_blank">
+<a href="https://instagram.com/agungkurniawan.id" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-agungkurniawanid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:agungkurniawanid@gmail.com" target="_blank">
+<a href="mailto:agungklewang26@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-agungkurniawanid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
