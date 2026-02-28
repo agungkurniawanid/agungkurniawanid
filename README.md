@@ -1,33 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Hi+there%2C+I'm+Agung+%F0%9F%91%8B;Backend+Engineer+%7C+Informatika+Graduate;Flutter+%7C+Laravel+%7C+Go+%7C+Python+Developer;AI+%26+Machine+Learning+Enthusiast;IoT+%26+Tech+Innovation+Explorer" alt="Typing SVG" />
+### ✨ Backend Engineer · S1 Teknik Informatika · Banyuwangi, Indonesia 🇮🇩
 
-<br/>
-
-<!-- Status Badges -->
-<img src="https://komarev.com/ghpvc/?username=agungkurniawanid&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/agungkurniawanid?tab=followers">
-  <img src="https://img.shields.io/github/followers/agungkurniawanid?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-a855f7?style=flat-square&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20in-Indonesia%20🇮🇩-a855f7?style=flat-square&labelColor=1a1a2e" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Backend%20Engineering-7c3aed?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-10b981?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20IoT-f59e0b?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 </div>
-
-<br/>
 
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
 
 ```typescript
 const agung: Developer = {
@@ -46,52 +33,34 @@ const agung: Developer = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Database & Infrastructure**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**AI / ML & IoT**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=php,go,python,dart,ts,js" /><br/>
+      <strong>Languages</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=laravel,nestjs,django,flask,flutter,nextjs" /><br/>
+      <strong>Frameworks & Mobile</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,docker" /><br/>
+      <strong>Backend & Database</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=tensorflow,raspberrypi,arduino,git,linux,vscode" /><br/>
+      <strong>AI / IoT & Tools</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -101,9 +70,13 @@ const agung: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.demolab.com?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888&stroke=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="170" />
+&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" height="170" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="160" />
 
 </div>
 
@@ -134,9 +107,7 @@ const agung: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
+<img src="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </div>
 
 ---
