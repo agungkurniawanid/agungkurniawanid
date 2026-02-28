@@ -129,29 +129,39 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
 ## 📫 Get In Touch
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-agungkurniawanid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/agungkurniawan.id" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-agungkurniawanid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:agungklewang26@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-agungkurniawanid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://gungzzleefy.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-agungkurniawan.id-2c5364?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="200" style="padding: 12px;">
+      <a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
+        <sub><b>Agung Kurniawan</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200" style="padding: 12px;">
+      <a href="https://instagram.com/agungkurniawan.id" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+        <sub><b>@agungkurniawan.id</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200" style="padding: 12px;">
+      <a href="mailto:agungklewang26@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+        <sub><b>agungklewang26@gmail.com</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200" style="padding: 12px;">
+      <a href="https://gungzzleefy.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-2c5364?style=for-the-badge&logo=firefox-browser&logoColor=white" /><br/>
+        <sub><b>gungzzleefy.com</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
