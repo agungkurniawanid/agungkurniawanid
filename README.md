@@ -3,12 +3,6 @@
 # 💫 Hello, I'm Agung Kurniawan
 ### ✨ Junior Backend Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Main%20Focus-Frontend%20Development-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Learning-Advanced%20Backend-orange?style=for-the-badge&logo=node.js" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
