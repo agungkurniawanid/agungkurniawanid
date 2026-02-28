@@ -1,35 +1,37 @@
 <div align="center">
 
-<!-- HEADER ANIMATED -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agung%20Kurniawan&fontSize=48&fontColor=e2e8f0&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+# 💫 Hello, I'm Agung Kurniawan
+### ⚙️ Backend Engineer · AI & IoT Enthusiast
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Focus-Backend%20%26%20AI-7c3aed?style=for-the-badge&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20Freelance-10b981?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20LLMs-f59e0b?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&height=50&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Crafting+IoT+solutions+%F0%9F%94%8C;Open+to+collaboration+%F0%9F%9A%80" />
+<p align="center">
+  <a href="mailto:agungklewang26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-agungklewang26-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Agung%20Kurniawan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/agungkurniawan.id" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@agungkurniawan.id-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@gungzzleefy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@gungzzleefy-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-<a href="mailto:agungklewang26@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-agungklewang26-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Agung%20Kurniawan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/agungkurniawan.id" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@agungkurniawan.id-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@gungzzleefy" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-@gungzzleefy-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=agungkurniawanid&label=Profile+Views&color=7c3aed&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/agungkurniawanid?label=Followers&style=flat-square&color=10b981&logo=github" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agungkurniawanid&label=Profile+Views&color=7c3aed&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/agungkurniawanid?label=Followers&style=flat-square&color=10b981&logo=github" />
+</p>
 
 </div>
 
@@ -65,17 +67,48 @@ const agung: Developer = {
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,go,python,dart,ts,js&theme=dark" /><br>
+      <strong>Languages</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,nestjs,django,flask,flutter,nextjs&theme=dark" /><br>
+      <strong>Frameworks & Mobile</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,docker&theme=dark" /><br>
+      <strong>Backend & Database</strong>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,raspberrypi,arduino,git,linux,aws&theme=dark" /><br>
+      <strong>AI / IoT & DevOps</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=e2e8f0&rank_icon=github&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=agungkurniawanid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=10b981&sideLabels=e2e8f0&dates=6b7280" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=agungkurniawanid&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=10b981" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=10&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=10" />
 
 </div>
 
@@ -85,36 +118,6 @@ const agung: Developer = {
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**💬 Languages**
-
-<img src="https://skillicons.dev/icons?i=php,go,python,dart,ts,js&theme=dark" />
-
-<br/>
-
-**🧩 Frameworks & Mobile**
-
-<img src="https://skillicons.dev/icons?i=laravel,nestjs,django,flask,flutter,nextjs&theme=dark" />
-
-<br/>
-
-**🗄️ Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,mongodb,redis,docker&theme=dark" />
-
-<br/>
-
-**🤖 AI / IoT & DevOps**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,raspberrypi,arduino,git,linux,aws&theme=dark" />
-
 </div>
 
 ---
@@ -173,24 +176,6 @@ const agung: Developer = {
 
 ---
 
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agungkurniawanid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=10b981&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
----
-
 ## ⚡ Quick Stats
 
 <div align="center">
@@ -199,7 +184,6 @@ const agung: Developer = {
 ![Commits](https://img.shields.io/badge/Commits-1000%2B-10b981?style=for-the-badge&logo=git&logoColor=white)
 ![Years](https://img.shields.io/badge/Experience-3%2B%20Years-f59e0b?style=for-the-badge&logo=clockify&logoColor=white)
 ![Stars](https://img.shields.io/badge/Stars-20%2B-ef4444?style=for-the-badge&logo=starship&logoColor=white)
-
 ![Languages](https://img.shields.io/badge/Languages-6%2B-6366f1?style=for-the-badge&logo=polywork&logoColor=white)
 ![Frameworks](https://img.shields.io/badge/Frameworks-8%2B-ec4899?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20AI-0891b2?style=for-the-badge&logo=serverfault&logoColor=white)
@@ -244,9 +228,5 @@ const agung: Developer = {
 <a href="https://www.youtube.com/@gungzzleefy" target="_blank">
   <img src="https://img.shields.io/badge/Subscribe%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
