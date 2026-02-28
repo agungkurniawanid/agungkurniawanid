@@ -1,4 +1,4 @@
-<div align="center">
+<div width="100%">
   <!-- Baris 1: Languages & Frontend -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px; width: 100%;">
     <div style="flex: 1 1 300px; min-width: 250px; text-align: left;">
