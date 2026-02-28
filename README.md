@@ -70,22 +70,27 @@ const agung: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="170" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" height="170" />
+<img src="https://streak-stats.demolab.com/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888&cache_seconds=1800" height="170" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="160" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+![](https://img.shields.io/badge/Commits-1000%2B-a855f7?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Repositories-50%2B-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Years%20Coding-3%2B-10b981?style=for-the-badge&logo=calendar&logoColor=white)
+![](https://img.shields.io/badge/Stack-Full%20Backend-f59e0b?style=for-the-badge&logo=serverfault&logoColor=white)
+
 </div>
 
 ---
