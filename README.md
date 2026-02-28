@@ -33,7 +33,7 @@
   <tr>
     <td align="left" valign="top">
       <strong>Testing & Tools</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,jest,pytest,insomnia,bash,vite&perline=6" alt="Testing and Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,jest,selenium,pytest,insomnia,bash,vite&perline=5" alt="Testing and Tools" />
     </td>
     <td align="left" valign="top">
       <strong>Design & 3D Modeling</strong><br><br>
