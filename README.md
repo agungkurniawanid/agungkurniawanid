@@ -1,8 +1,5 @@
 <div align="center">
-
-# 💫 Hello, I'm Agung Kurniawan
 ### ✨ Junior Backend Engineer
-
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
