@@ -110,6 +110,12 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
   </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/agungkurniawanid?config.timezone=Asia%2FJakarta" alt="Agung's GitHub Metrics" width="700">
+</div>
+
 ---
 
 ## 📊 GitHub Stats
