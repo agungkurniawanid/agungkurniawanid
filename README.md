@@ -1,158 +1,229 @@
+<!-- ===== HEADER ===== -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlignY=56&animation=fadeIn" />
+</div>
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agung%20Kurniawan&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
+<!-- ===== INTRO ===== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Hi+%F0%9F%91%8B+I'm+Agung+%E2%80%94+Welcome+to+my+GitHub!;Backend+Engineer+%7C+Informatika+Graduate;Building+with+Laravel+%C2%B7+Go+%C2%B7+Flutter+%C2%B7+Python;Passionate+about+AI%2C+IoT+%26+Innovation" alt="Typing SVG" />
+  </a>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Agung+%F0%9F%91%8B;Backend+Engineer+%7C+Informatika+Graduate;Flutter+%7C+Laravel+%7C+Go+%7C+Python;AI+%26+Machine+Learning+Enthusiast;IoT+%26+Tech+Innovation+Explorer" alt="Typing SVG" />
-</a>
+  <br/><br/>
+
+  <a href="https://github.com/agungkurniawanid?tab=followers">
+    <img src="https://img.shields.io/github/followers/agungkurniawanid?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1b27" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=agungkurniawanid&label=Profile+Views&color=7c3aed&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/agungkurniawanid?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-7c3aed?style=for-the-badge&labelColor=1a1b27" alt="Open Source Love"/>
+  </a>
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=agungkurniawanid&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-<a href="https://github.com/agungkurniawanid?tab=followers">
-  <img src="https://img.shields.io/github/followers/agungkurniawanid?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers"/>
-</a>
+<!-- ===== ABOUT ME ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-</div>
-
----
-
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```typescript
 const agung = {
-  name        : "Agung Kurniawan",
-  nickname    : "Agung",
-  location    : "📍 Banyuwangi, Jawa Timur, Indonesia 🇮🇩",
-  education   : "S1 Teknik Informatika",
-  role        : "Backend Engineer",
-  interests   : ["AI & Machine Learning", "IoT", "Software Engineering", "Tech Innovation"],
-  currentFocus: "Building scalable backend systems & exploring AI/ML",
-  funFact     : "I debug with coffee ☕ and solve problems with patience 🧩",
+  name       : "Agung Kurniawan",
+  location   : "Banyuwangi, East Java, Indonesia",
+  education  : "B.Sc. Informatics Engineering",
+  role       : "Backend Engineer",
+  languages  : ["Indonesian", "English"],
 };
 ```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack & Skills
+- 🔭 &nbsp;Currently building **scalable backend systems**
+- 🤖 &nbsp;Exploring **AI/ML** & **LLM integrations**
+- 🔌 &nbsp;Tinkering with **IoT** & embedded devices
+- 🎯 &nbsp;Goal: Contributing to impactful open-source
+- ☕ &nbsp;Fun fact: I debug with coffee & patience
 
-<div align="center">
-
-### 🔙 Backend
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### 🎨 Frontend & Mobile
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-### 🗄️ Database & Cloud
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-### 🤖 AI / ML & IoT
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-### ⚙️ Tools & DevOps
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===== TECH STACK ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=agungkurniawanid&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=ffffff&dates=888888" />
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Backend & Languages**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,go,django,flask,python&perline=4" alt="Backend" />
+
+</td>
+<td align="center" width="50%">
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,ts,html,css,tailwind&perline=4" alt="Frontend" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,linux,nginx&perline=4" alt="Database" />
+
+</td>
+<td align="center">
+
+**AI / ML & IoT**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,raspberrypi,arduino&perline=4" alt="AI & IoT" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=agungkurniawanid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff" />
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Tools" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
----
-
-## 🌱 Currently Learning
+<!-- ===== GITHUB STATS ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Statistics
 
 <div align="center">
 
-| 🤖 AI & Machine Learning | 🔌 IoT & Embedded | ☁️ Cloud & DevOps |
-|:---:|:---:|:---:|
-| Deep Learning & Neural Networks | Raspberry Pi & ESP32 | AWS / GCP Basics |
-| NLP & Computer Vision | MQTT Protocol | Kubernetes & CI/CD |
-| LangChain & LLM Integration | Sensor Integration | Microservices Architecture |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=agungkurniawanid&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=888888" alt="GitHub Streak" />
 
 </div>
 
----
-
-## 📈 Contribution Snake
+<br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
 </div>
 
-> ⚠️ **Note:** Untuk snake animation, tambahkan GitHub Action di `.github/workflows/snake.yml` — saya sertakan filenya di bawah.
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=agungkurniawanid&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&area_color=302b63&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
-## 📬 Connect With Me
+<!-- ===== TROPHIES ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+</div>
+
+---
+
+<!-- ===== CURRENTLY LEARNING ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" /> &nbsp;Currently Learning
+
+<div align="center">
+
+<table>
+<tr>
+<th>🤖 AI & Machine Learning</th>
+<th>🔌 IoT & Embedded</th>
+<th>☁️ Cloud & DevOps</th>
+</tr>
+<tr>
+<td>
+
+- Deep Learning & Neural Networks
+- NLP & Computer Vision
+- LangChain & LLM Integration
+
+</td>
+<td>
+
+- Raspberry Pi & ESP32
+- MQTT Protocol
+- Sensor Integration
+
+</td>
+<td>
+
+- AWS / GCP Fundamentals
+- Kubernetes & CI/CD
+- Microservices Architecture
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/agungkurniawanid/agungkurniawanid/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- ===== CONNECT ===== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="mailto:agungklewang26@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/agung-k-74530028b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.instagram.com/agungkurniawan.id" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.youtube.com/@gungzzleefy" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
 
+<br/>
+
 ---
 
+<!-- ===== FOOTER ===== -->
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-<i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
