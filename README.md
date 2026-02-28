@@ -115,22 +115,24 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8" />
-
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=agungkurniawanid&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=agungkurniawanid&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7" alt="GitHub Streak" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-
-[![Agung's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agungkurniawanid&theme=tokyo-night&bg_color=0d1117&color=4FC3F7&line=2c5364&point=4FC3F7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agungkurniawanid&theme=tokyo-night&bg_color=0d1117&color=4FC3F7&line=2c5364&point=4FC3F7&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
 </div>
 
 ## 📫 Get In Touch
