@@ -137,11 +137,7 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Agung's GitHub Trophies" />
-  </a>
-</div>
+[![Agung's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agungkurniawanid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
