@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" />
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=Agung+Kurniawan;Backend+Engineer;AI+%26+IoT+Enthusiast)
 
 ### ✨ Backend Engineer · S1 Teknik Informatika · Banyuwangi, Indonesia 🇮🇩
 
@@ -72,7 +72,7 @@ const agung: Developer = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="170" />
 &nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888" height="170" />
 
 <br/>
 
@@ -137,9 +137,5 @@ const agung: Developer = {
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
-
 <sub><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></sub>
-
 </div>
