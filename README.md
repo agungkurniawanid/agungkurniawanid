@@ -20,7 +20,8 @@
 
 </div>
 
-{
+<pre>
+  {
   &quot;name&quot;: &quot;Agung Kurniawan&quot;,
   &quot;location&quot;: &quot;Banyuwangi, East Java, Indonesia 🇮🇩&quot;,
   &quot;role&quot;: &quot;Backend Engineer&quot;,
@@ -39,6 +40,7 @@
   ],
   &quot;philosophy&quot;: &quot;A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems.&quot;
 }
+</pre>
 
 ## 🛠️ Tech Stack
 
