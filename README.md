@@ -5,10 +5,10 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <h3>Building scalable systems from the ground up</h3>
+  <h3>Building scalable architectures & intelligent systems</h3>
   <p>
-    Turning ideas into production-ready products<br>
-    <i>Clean code | Great architecture | Real impact</i>
+    Bridging robust backend engineering with machine learning solutions<br>
+    <i>Clean Code | Great Architecture | Real Impact</i>
   </p>
 </div>
 
