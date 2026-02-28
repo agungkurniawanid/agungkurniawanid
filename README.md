@@ -36,7 +36,7 @@
       <strong>AI / Machine Learning</strong><br><br>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter,r,matlab&perline=5&theme=dark">
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,jupyter,r,matlab&perline=5&theme=light" alt="AI / Machine Learning">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter,r,matlab&perline=5&theme=light" alt="AI / Machine Learning">
       </picture>
     </td>
     <td align="left">
