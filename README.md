@@ -37,36 +37,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```typescript
-const agung: Developer = {
-  name        : "Agung Kurniawan",
-  location    : "Banyuwangi, Jawa Timur 🇮🇩",
-  education   : "S1 Teknik Informatika",
-  role        : "Backend Engineer",
-  experience  : "3+ Years",
-
-  interests   : [
-    "🤖 AI & Machine Learning",
-    "🔌 IoT & Embedded Systems",
-    "⚙️  Scalable Architecture",
-    "🚀 Tech Innovation",
-  ],
-
-  currentFocus: [
-    "Backend systems design",
-    "AI/ML exploration & LLMs",
-    "Cloud-native architecture",
-  ],
-
-  openTo      : "Remote · Freelance · Collab",
-  funFact     : "I debug with coffee ☕ and patience 🧩",
-};
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
