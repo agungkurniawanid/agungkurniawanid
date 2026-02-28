@@ -1,11 +1,7 @@
-<div align="left">
-  <h3>💻 Tech Stack & Tools</h3>
-</div>
-
 <div align="center">
 <table>
   <tr>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top" width="100%">
       <strong>Languages</strong><br><br>
       <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,php,dart,rust,cpp&perline=5" alt="Programming Languages" />
     </td>
