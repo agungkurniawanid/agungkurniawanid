@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=16&descColor=a8c8e8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Agung%20Kurniawan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%Engineer%20%7C%20AI%20Learner%20%7C%20Cloud%20Architect&descAlignY=58&descSize=16&descColor=a8c8e8" />
 
 <!-- Typing SVG -->
 <div align="center">
