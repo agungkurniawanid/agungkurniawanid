@@ -12,6 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
+    # TAMBAHKAN INI AGAR BISA PUSH KE BRANCH OUTPUT
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake
