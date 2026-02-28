@@ -110,22 +110,7 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
   </tr>
 </table>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/agungkurniawanid?config.timezone=Asia%2FJakarta" alt="Agung's GitHub Metrics" width="700">
-</div>
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
