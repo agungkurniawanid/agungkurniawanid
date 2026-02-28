@@ -1,5 +1,3 @@
-<div align="center">
-✨ Junior Backend Engineer
 <table align="center">
   <tr>
     <td align="center" style="border: none;">
