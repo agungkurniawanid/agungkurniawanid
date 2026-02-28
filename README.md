@@ -20,27 +20,26 @@
 
 </div>
 
-<pre>
-  {
-  &quot;name&quot;: &quot;Agung Kurniawan&quot;,
-  &quot;location&quot;: &quot;Banyuwangi, East Java, Indonesia 🇮🇩&quot;,
-  &quot;role&quot;: &quot;Backend Engineer&quot;,
-  &quot;education&quot;: &quot;Bachelor&#39;s Degree in Informatics Engineering&quot;,
-  &quot;experience&quot;: &quot;Architecting integrated solutions that seamlessly connect AI models, web platforms, mobile apps, and IoT devices into a unified ecosystem.&quot;,
-  &quot;focus&quot;: [
-    &quot;Scalable backend architecture &amp; robust API design&quot;,
-    &quot;Computer Vision &amp; Machine Learning model integration&quot;,
-    &quot;Cross-platform mobile application development with Flutter&quot;,
-    &quot;Bridging hardware (IoT) and software ecosystems&quot;
-  ],
-  &quot;currently&quot;: [
-    &quot;Developing a real-time SIBI sign language recognition model for my thesis&quot;,
-    &quot;Deepening expertise in Python for advanced Deep Learning&quot;,
-    &quot;Expanding my global reach by learning English and German&quot;
-  ],
-  &quot;philosophy&quot;: &quot;A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems.&quot;
-}
-</pre>
+## 👨‍💻 About Me
+
+**Agung Kurniawan** | 📍 Banyuwangi, East Java, Indonesia 🇮🇩
+*Backend Engineer | Bachelor's Degree in Informatics Engineering*
+
+**Bridging Systems and Intelligence**
+Architecting integrated solutions that seamlessly connect AI models, web platforms, mobile apps, and IoT devices into a unified ecosystem.
+
+**🎯 Core Focus**
+* **Backend Architecture:** Designing scalable systems and robust APIs.
+* **AI & Machine Learning:** Integrating Computer Vision and intelligent models into real-world applications.
+* **Mobile Development:** Building cross-platform experiences with Flutter.
+* **IoT Integration:** Bridging hardware and software ecosystems seamlessly.
+
+**🚀 Currently Working On**
+* Developing a real-time SIBI sign language recognition model for my thesis.
+* Deepening expertise in Python for advanced Deep Learning.
+* Expanding my global communication skills by learning English and German.
+
+> *"A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems."*>
 
 ## 🛠️ Tech Stack
 
