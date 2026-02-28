@@ -1,11 +1,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="left" valign="top" width="100%">
+    <td align="left" valign="top">
       <strong>Languages</strong><br><br>
       <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,php,dart,rust,cpp&perline=5" alt="Programming Languages" />
     </td>
-    <td align="left" valign="top" width="50%">
+    <td align="left" valign="top">
       <strong>Frontend & Mobile</strong><br><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,flutter,kotlin,swift&perline=5" alt="Frontend and Mobile" />
     </td>
