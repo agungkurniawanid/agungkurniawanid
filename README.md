@@ -142,7 +142,7 @@ Architecting integrated solutions that seamlessly connect AI models, web platfor
   <img src="https://img.shields.io/badge/Email-agungkurniawanid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://agungkurniawan.id" target="_blank">
+<a href="https://gungzzleefy.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-agungkurniawan.id-2c5364?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
