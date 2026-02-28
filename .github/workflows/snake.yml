@@ -2,18 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Berjalan setiap hari pada tengah malam
+  workflow_dispatch:      # Mengizinkan Anda menjalankan ini secara manual
   push:
     branches:
-      - main
+      - main              # Berjalan setiap kali ada push ke branch main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
-    # TAMBAHKAN INI AGAR BISA PUSH KE BRANCH OUTPUT
+
+    # BAGIAN INI SANGAT PENTING DITAMBAHKAN
     permissions:
       contents: write
 
