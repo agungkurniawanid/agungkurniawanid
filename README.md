@@ -22,27 +22,25 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```yaml
-name: Agung Kurniawan
-location: Indonesia 🇮🇩
-role: Full Stack Developer & AI Engineer
-experience: Building end-to-end products — from pixel to production
-
-focus:
-  - Scalable backend architecture & microservices
-  - Modern frontend experiences with React & Next.js
-  - AI/ML integration into real-world applications
-  - Cloud-native infrastructure & DevOps pipelines
-
-currently:
-  - Exploring LLM integration patterns
-  - Building with Rust for high-performance systems
-  - Deepening expertise in Kubernetes & cloud architecture
-
-philosophy: "Write code that's easy to delete, not just easy to write."
-```
+{
+  "name": "Agung Kurniawan",
+  "location": "Banyuwangi, East Java, Indonesia 🇮🇩",
+  "role": "Backend Engineer",
+  "education": "Bachelor's Degree in Informatics Engineering",
+  "experience": "Architecting integrated solutions that seamlessly connect AI models, web platforms, mobile apps, and IoT devices into a unified ecosystem.",
+  "focus": [
+    "Scalable backend architecture & robust API design",
+    "Computer Vision & Machine Learning model integration",
+    "Cross-platform mobile application development with Flutter",
+    "Bridging hardware (IoT) and software ecosystems"
+  ],
+  "currently": [
+    "Developing a real-time SIBI sign language recognition model for my thesis",
+    "Deepening expertise in Python for advanced Deep Learning",
+    "Expanding my global reach by learning English and German"
+  ],
+  "philosophy": "A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems."
+}
 
 ---
 
