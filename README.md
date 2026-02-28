@@ -20,29 +20,25 @@
 
 </div>
 
----
-
 {
-  "name": "Agung Kurniawan",
-  "location": "Banyuwangi, East Java, Indonesia 🇮🇩",
-  "role": "Backend Engineer",
-  "education": "Bachelor's Degree in Informatics Engineering",
-  "experience": "Architecting integrated solutions that seamlessly connect AI models, web platforms, mobile apps, and IoT devices into a unified ecosystem.",
-  "focus": [
-    "Scalable backend architecture & robust API design",
-    "Computer Vision & Machine Learning model integration",
-    "Cross-platform mobile application development with Flutter",
-    "Bridging hardware (IoT) and software ecosystems"
+  &quot;name&quot;: &quot;Agung Kurniawan&quot;,
+  &quot;location&quot;: &quot;Banyuwangi, East Java, Indonesia 🇮🇩&quot;,
+  &quot;role&quot;: &quot;Backend Engineer&quot;,
+  &quot;education&quot;: &quot;Bachelor&#39;s Degree in Informatics Engineering&quot;,
+  &quot;experience&quot;: &quot;Architecting integrated solutions that seamlessly connect AI models, web platforms, mobile apps, and IoT devices into a unified ecosystem.&quot;,
+  &quot;focus&quot;: [
+    &quot;Scalable backend architecture &amp; robust API design&quot;,
+    &quot;Computer Vision &amp; Machine Learning model integration&quot;,
+    &quot;Cross-platform mobile application development with Flutter&quot;,
+    &quot;Bridging hardware (IoT) and software ecosystems&quot;
   ],
-  "currently": [
-    "Developing a real-time SIBI sign language recognition model for my thesis",
-    "Deepening expertise in Python for advanced Deep Learning",
-    "Expanding my global reach by learning English and German"
+  &quot;currently&quot;: [
+    &quot;Developing a real-time SIBI sign language recognition model for my thesis&quot;,
+    &quot;Deepening expertise in Python for advanced Deep Learning&quot;,
+    &quot;Expanding my global reach by learning English and German&quot;
   ],
-  "philosophy": "A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems."
+  &quot;philosophy&quot;: &quot;A great system hides its complexity. True engineering is making AI, hardware, and software work together seamlessly to solve real-world problems.&quot;
 }
-
----
 
 ## 🛠️ Tech Stack
 
