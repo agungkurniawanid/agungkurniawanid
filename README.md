@@ -70,13 +70,13 @@ const agung: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=1800" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=agungkurniawanid&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&cache_seconds=1800&v=2" height="170" />
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=agungkurniawanid&theme=dark&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=888888&cache_seconds=1800" height="170" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&cache_seconds=1800" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungkurniawanid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&cache_seconds=1800&v=2" height="160" />
 
 </div>
 
